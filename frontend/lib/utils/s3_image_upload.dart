@@ -6,10 +6,10 @@ import 'package:intl/intl.dart';
 import 'dart:developer' as developer;
 
 class S3ImageUpload {
-  final String bucketName = 'runnerway';
-  final String region = 'ap-northeast-2';
-  final String accessKey = 'AKIARWPFIBUZW2D3AVHM';
-  final String secretKey = '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';
+  final String bucketName = '';
+  final String region = '';
+  final String accessKey = '';
+  final String secretKey = '';
 
   S3ImageUpload();
 
